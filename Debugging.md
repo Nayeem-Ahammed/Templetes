@@ -1,5 +1,5 @@
 ## Debugging File
-- [download](NAYEEM.cpp) here.
+- [download](https://github.com/Nayeem-Ahammed/Templetes/blob/main/NAYEEM.cpp) here.
 
 - in your program , just add this after `main()`
 ```
